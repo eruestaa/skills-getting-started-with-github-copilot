@@ -142,3 +142,34 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* Sección de participantes en la tarjeta de actividad */
+.activity-participants {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px dashed #bdbdbd;
+  background: #eef2fa;
+  border-radius: 0 0 5px 5px;
+}
+
+.activity-participants-title {
+  font-size: 15px;
+  color: #3949ab;
+  margin-bottom: 8px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.activity-participants-list {
+  list-style-type: disc;
+  margin-left: 22px;
+  margin-bottom: 0;
+  color: #333;
+  font-size: 15px;
+}
+
+.activity-participants-list li {
+  margin-bottom: 4px;
+  padding-left: 2px;
+  background: none;
+}
